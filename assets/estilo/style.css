@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  background-color: #fcfbff;
+  background-image: url (assets/imagens/19366.jpg) ;
   display: flex;
   justify-content: center;
 }
