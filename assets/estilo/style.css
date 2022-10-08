@@ -83,7 +83,7 @@ section#home {
   border: none;
   width: 150px;
   padding: 10px;
-  background-color: #7700ff;
+  background-color: #6599ed;
   color: white;
   font-size: 18px;
   cursor: pointer;
@@ -167,11 +167,11 @@ section#projects {
 
 .swiper-button-next, 
 .swiper-button-prev {
-  color: #7700ff;
+  color: #6599ed;
 }
 
 .swiper-pagination-bullet-active {
-  background-color: #7700ff ;
+  background-color: #6599ed ;
 }
 
 
@@ -209,7 +209,7 @@ input, textarea, button {
 }
 
 #contact form button {
-  background-color: #7700ff;
+  background-color: #6599ed;
   color: white;
   font-size: 18px;
   cursor: pointer;
